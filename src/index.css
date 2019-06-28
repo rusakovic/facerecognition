@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Jura|Poiret+One&display=swap');
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  position: relative;
+  height: 100px;
+  font-family: 'Poiret One', cursive;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #E680B8;
+  background: -webkit-linear-gradient(top right, #E680B8, #AC97B7);
+  background: -moz-linear-gradient(top right, #E680B8, #AC97B7);
+  background: linear-gradient(to bottom left, #E680B8, #AC97B7);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+button {
+  cursor: pointer;
+}
+
+
